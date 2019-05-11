@@ -1,0 +1,4 @@
+https://medium.com/@jaeger.rob/introduction-to-nodes-express-js-db5617047150
+https://docs.mongodb.com/manual/crud/
+https://www.thepolyglotdeveloper.com/2019/02/building-rest-api-mongodb-mongoose-nodejs/
+https://docs.mongodb.com/manual/tutorial/getting-started/
